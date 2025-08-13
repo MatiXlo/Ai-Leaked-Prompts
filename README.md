@@ -1,2 +1,3 @@
 # Ai-Leaked-Prompts
-This Repo Contains leaked sys prompts of ai chatbot
+## HOW TO DOWNLOAD ?
+go to desired chatbot prompt and click "Raw" and copy all od it
